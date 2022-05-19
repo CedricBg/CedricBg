@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CedricBg
+- 👀 I’m interested in C# developpement
+- 🌱 I’m currently learning C# and Angular
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
